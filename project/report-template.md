@@ -55,7 +55,7 @@ Given more time to work with this dataset, I would like to investigate addition
 |--|--|--|--|--|
 |initial|prescribed_values|prescribed_values|"presets: 'high quality' (auto_stack=True)"|1.80580|
 |add_features|prescribed_values|prescribed_values|"presets: 'high quality' (auto_stack=True)"| 0.65436|
-|hpo (top-hpo-model: hpo2)|Models: (GBM, CAT, XGB)|"presets: 'optimize_for_deployment"|0.49249|
+|hpo (top-hpo-model: hpo2)|Models: (GBM, CAT, XGB)| KNN |"presets: 'optimize_for_deployment"|0.49249|
 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
